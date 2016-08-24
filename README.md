@@ -14,5 +14,5 @@ This is main page (surumliste.jsp)
 This is add.jsp
 ![alt tag](https://github.com/cembilgin/VersionManagement/blob/master/Screenshots/add.jpg)
 
-This is update.jsp (After clicking 4.2 version Number's update) 
+This is update.jsp (After clicking update of 4.2 Version Number) 
 ![alt tag](https://github.com/cembilgin/VersionManagement/blob/master/Screenshots/update.jpg)
